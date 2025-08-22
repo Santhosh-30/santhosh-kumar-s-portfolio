@@ -7,12 +7,12 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      url: "https://github.com/santhoshkumar",
+      url: "https://github.com/Santhosh-30",
       label: "GitHub"
     },
     {
       icon: Linkedin,
-      url: "https://linkedin.com/in/santhoshkumar",
+      url: "https://www.linkedin.com/in/santhosh-kumar-s-5650b0267/",
       label: "LinkedIn"
     },
     {

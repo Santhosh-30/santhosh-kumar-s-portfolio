@@ -78,7 +78,7 @@ const Hero = () => {
               variant="ghost"
               size="sm"
               className="text-muted-foreground hover:text-primary transition-colors"
-              onClick={() => window.open('https://github.com/santhoshkumar', '_blank')}
+              onClick={() => window.open('https://github.com/Santhosh-30', '_blank')}
             >
               <Github size={20} />
             </Button>
@@ -86,7 +86,7 @@ const Hero = () => {
               variant="ghost"
               size="sm"
               className="text-muted-foreground hover:text-primary transition-colors"
-              onClick={() => window.open('https://linkedin.com/in/santhoshkumar', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/santhosh-kumar-s-5650b0267/', '_blank')}
             >
               <Linkedin size={20} />
             </Button>

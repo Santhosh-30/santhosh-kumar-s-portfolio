@@ -57,12 +57,12 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      url: "https://github.com/santhoshkumar"
+      url: "https://github.com/Santhosh-30"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      url: "https://linkedin.com/in/santhoshkumar"
+      url: "https://www.linkedin.com/in/santhosh-kumar-s-5650b0267/"
     },
     {
       icon: Mail,
