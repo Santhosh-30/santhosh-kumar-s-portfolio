@@ -101,10 +101,10 @@ const Projects = () => {
           <Button 
             variant="outline"
             size="lg"
-            className="border-primary text-primary hover:bg-primary hover:text-primary-foreground"
-            onClick={() => window.open('https://github.com/santhoshkumar', '_blank')}
+            className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-primary/20 group animate-fade-in"
+            onClick={() => window.open('https://github.com/Santhosh-30', '_blank')}
           >
-            <Github className="mr-2" size={20} />
+            <Github className="mr-2 transition-transform duration-300 group-hover:rotate-12" size={20} />
             View More Projects
           </Button>
         </div>
