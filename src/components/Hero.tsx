@@ -50,7 +50,7 @@ const Hero = () => {
               variant="outline"
               size="lg"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-6 text-lg hover-lift"
-              onClick={() => window.open('/resume.pdf', '_blank')}
+              onClick={() => window.open('Santhosh_Kumar_S_SDE.pdf', '_blank')}
             >
               <Download className="mr-2" size={20} />
               Download Resume
